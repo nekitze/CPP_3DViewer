@@ -29,9 +29,8 @@ uninstall:
 	rm ${HOME}/Desktop/3DViewer_2.0
 
 dvi:
+	doxygen Doxyfile
 	open html/index.html
-#	doxygen -g Doxyfile
-#	doxygen Doxyfile
 
 dist: install
 	tar -czf s21_3d_viewer.tar.gz --directory=s21_3d_viewer/ .
