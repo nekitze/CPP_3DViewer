@@ -6,7 +6,7 @@
 ## Install:
 1. Go to /src
 2. Do ```make install```
-3. Run from Desctop icon (or run executable ${PWD}/s21_3d_viewer/3DViewer.app)
+3. Run from Desktop icon (or run executable ${PWD}/s21_3d_viewer/3DViewer.app)
 
 ## Overview:
 
